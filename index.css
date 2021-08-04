@@ -91,3 +91,6 @@
     color: pink;
   }
   
+  .media:hover{
+    box-shadow:0px 0px 8px 8px #343a40;
+  }
